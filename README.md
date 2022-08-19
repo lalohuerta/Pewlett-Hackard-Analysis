@@ -18,11 +18,11 @@ In the following image you will see that:
 * Most of the retirements employees are Senior Engineer and Senior Staff representing the 60% of all the retirements.
 * There are 2 managers who will retire soon as well.
 
-<img src="Data/Retiring_titles.png" width="700">
+<img src="Data/Retiring_titles.png" width="500">
 
 * According to the next table the mentorship elegibility there are 1549 employees that could be candidates from this program.
 
-<img src="Data/Mentorship_elegibility.png" width="600">
+<img src="Data/Mentorship_elegibility.png" width="650">
 
 ## Summary:
 
